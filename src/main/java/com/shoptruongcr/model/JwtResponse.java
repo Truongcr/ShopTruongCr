@@ -1,6 +1,5 @@
 package com.shoptruongcr.model;
 
-import com.shoptruongcr.entity.Role;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
